@@ -1,3 +1,19 @@
-# Contemporary Issues In Data
+# The Job Market Shaped By ChatGPT
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+In this document, I plan to introduce two articles with differing perspectives on how ChatGPT will affect the data science/analysis job market in the future, and provide my personal insight on each of the articles.
+
+## Article 1
+
+The article by Economic Times _[ChatGPT can perform data analysis at fraction of human cost: Study](https://hr.economictimes.indiatimes.com/news/industry/chatgpt-can-perform-data-analysis-at-fraction-of-human-cost-study/100637480)_ describes a study which shows how the most widely-used new sensation AI ChatGPT is able to complete data analysis tasks at a fraction of what it costs to hire people to do them. Researchers from China and Singapore claim ChatGPT is not only more skillful at data analysis jobs than entry-level employees, but will also take much less time to complete the same tasks as well. Though AI often isn't perfect and will make small errors, they are considered easily fixable; Goldman Sachs speculates nearly 300 million jobs may be lost in the future due to the advancement of AI.
+
+As an undergraduate pursuing a minor degree in data science who very well might work in the field in the future, the quick advancement of ChatGPT and AI sure do seem quite daunting. There have already been massive layoffs highlighted by the news reflecting the recent decline in the economy, which is even more worrisome as the job fields of many of these occured in STEM and tech which are the quintessential high-job-availability and high-income fields.
+
+Corporates have been using AI for basic data analysis for the past years, but the issue of AI has probably only recently come to the surface with the accessibility of ChatGPT for the general public. Even as someone with no significant knowledge or insight in how companies work, I think it's a good bet that large corporations will more heavily base their workforce on the power of AI while hiring minimum population(probably the experienced seniors) to overlook possible errors at most.
+
+## Article 2
+
+Forbes presents a slightly more optimistic outlook on this subject in its article _[Will ChatGPT Put Data Analysts Out Of Work?](https://www.forbes.com/sites/bernardmarr/2023/02/07/will-chatgpt-put-data-analysts-out-of-work/?sh=1922e2c4030d)_. Though the abilities of ChatGPT(and modern day AIs) are impressive, the author goes through its limitations including frequent mistakes and its inability to intake data in any other form than text. Furthermore, as generative AI are not yet equipped with critical thinking and complex decision-making appropriate for professional settings, the author highlights that experts don't expect AI to take over much of current jobs related to data just yet. The article ends on an advice to current data analysts to keep pursuing the field while learning how to utilize AI as an efficient, innovative tool for the future.
+
+I'm definitely one of the students that trust ChatGPT much less. Being a psychology major, there were handfuls of times when I was blanking on concepts and would attempt to consult ChatGPT for a quick answer, many of which were completely wrong as I compared them to my notes. Being solely based on the massive chunks of information present on the web, ChatGPT is definitely not the most reliable source even when it comes to the most basic knowledge; so how can it really be used any extensively in a corporate setting?
+
+However, it's true there are times it will come in handy-- for example, when I'm stuck on a coding assignment. As I prefer to write the entirety of my codes after understanding every part of what I'm writing, sometimes I would seek some recommendations of a single line of code from ChatGPT that might get me thinking through a clueless dead end. It's no doubt that it can be a useful tool to assist professional data scientists in their job.
