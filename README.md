@@ -1,4 +1,4 @@
-# The Job Market Shaped By ChatGPT
+# The Data Job Market Shaped By ChatGPT
 
 In this document, I plan to introduce two articles with differing perspectives on how ChatGPT will affect the data science/analysis job market in the future, and provide my personal insight on each of the articles.
 
